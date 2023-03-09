@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <div id={styles.container}>
-        <h1 id={styles.hello}>VOTE.app</h1>
+        <h1 id={styles.hello}>Kangemi Voting system</h1>
       </div>
       <Party/>
       <EVM/>
